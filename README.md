@@ -22,3 +22,7 @@ Predict Census data if income is above or below 50k?
 - Preciision: 0.88
 - Recall: 0.88
 
+## XGBoost with Generation of Synthetic Samples using SMOTE and Principal Component Analysis + Hyperparameter Optimization using AUC
+- Accuracy: 0.90
+- Preciision: 0.89
+- Recall: 0.91
