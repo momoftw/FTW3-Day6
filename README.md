@@ -1,7 +1,7 @@
 # FTW3 Day6: Advanced Classification Techniques
 
 ## Problem: 
-Predict Census data if income is above or below 50k?
+Predict Census data if income is above or below 50k.
  
 ## Data Treatment
 - Dummified income, workclass, education level, marital status, occupation, relationship, race, sex, and native country
